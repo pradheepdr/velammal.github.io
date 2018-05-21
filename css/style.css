@@ -82,6 +82,7 @@ img {
 	border: 0;
 	outline: 0;
 	vertical-align: top;
+    width: 100%;
 }
 
 ul,
@@ -1237,7 +1238,7 @@ input[type=text] {
 	height: 335px;
 	overflow: hidden;
 	position: relative;
-	width: 70% !important;
+	width: 62% !important;
 }
 
 .online {
