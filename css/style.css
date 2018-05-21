@@ -459,11 +459,11 @@ input[type=text] {
 }
 
 #slider-right h3 {
-	font-size: 36px;
+	font-size: 32px;
 	color: #fff;
 	height: 40px;
 	line-height: 40px;
-	background: 874537 ;
+	background: #874537 ;
 	display: block;
 	padding: 0 0 0 20px;
 	font-weight: bold;
