@@ -185,22 +185,20 @@ input[type=text] {
 
 #outer-wrapper {
 	margin: 0 auto;
-	width: 1000px;
+	max-width: auto;
 }
 
 #wrapper,
 .wrapper {
 	margin: 0 auto;
 	padding: 0;
-	width: 1000px;
+	max-width: auto;
 	background: url(../images/wrapper-bg.jpg) repeat-x left top;
 	height: auto;
 	float: left;
 }
 
-.wrapper {
-	height: 170px;
-}
+
 
 #top {
 	background: url(../images/wrapper-bg-bottom.jpg) bottom center no-repeat;
@@ -1239,7 +1237,7 @@ input[type=text] {
 	height: 335px;
 	overflow: hidden;
 	position: relative;
-	width: 62% !important;
+	width: 70% !important;
 }
 
 .online {
