@@ -459,10 +459,10 @@ input[type=text] {
 }
 
 #slider-right p {
-	font-size: 22px;
+	font-size: 24px;
 	color: #EBCC0D;
     
-	height: 30px;
+	height: 40px;
 	line-height: 40px;
 	background: #874537 ;
 	display: block;
