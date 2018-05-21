@@ -461,6 +461,7 @@ input[type=text] {
 #slider-right p {
 	font-size: 28px;
 	color: #EBCC0D;
+    
 	height: 40px;
 	line-height: 40px;
 	background: #874537 ;
