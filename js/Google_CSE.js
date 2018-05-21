@@ -39,7 +39,7 @@ var s = f.parentNode.childNodes;
 for (var i = 0; i < s.length; i++) {
         if (s[i].nodeName == 'SCRIPT' &&
             s[i].attributes['src'] &&
-            s[i].attributes['src'].nodeValue == unescape('index.html\x2F\x2Fwww.google.com\x2Fcse\x2Fbrand?form=cse-search-box\x26lang=en')) {
+            s[i].attributes['src'].nodeValue == unescape('http:\x2F\x2Fwww.google.com\x2Fcse\x2Fbrand?form=cse-search-box\x26lang=en')) {
           su();
           break;
         }
