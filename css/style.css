@@ -186,14 +186,14 @@ input[type=text] {
 
 #outer-wrapper {
 	margin: 0 auto;
-	max-width: auto;
+	max-width: 1000 px;
 }
 
 #wrapper,
 .wrapper {
 	margin: 0 auto;
 	padding: 0;
-	max-width: auto;
+	max-width: 1000px;
 	background: url(../images/wrapper-bg.jpg) repeat-x left top;
 	height: auto;
 	float: left;
