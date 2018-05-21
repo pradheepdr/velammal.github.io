@@ -777,9 +777,9 @@ input[type=text] {
 	display: block;
 }
 
-#right-mid h1,
-.right-mid h1 {
-	font-size: 15px;
+#right-mid h2,
+.right-mid h2 {
+	font-size: 20px;
 	color: #fff;
 	margin: 0 0 10px 0;
 	display: block;
